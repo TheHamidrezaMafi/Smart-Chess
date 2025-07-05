@@ -1,6 +1,3 @@
-Absolutely! Below is the **entire `README.md` content in a single Markdown block**, ready to copy and paste as-is:
-
-````markdown
 # ♟️ Graphical Chess Game with SFML
 
 This is a **graphical chess game** built in **C++ using SFML**, designed to offer both a clean user experience and insightful gameplay feedback. The app includes features such as move hints, real-time game status updates (check, checkmate), and advanced detection of imminent checkmates within five moves.
@@ -40,17 +37,15 @@ This is a **graphical chess game** built in **C++ using SFML**, designed to offe
 2. Clone the repository:
    ```bash
    git clone https://github.com/TheHamidrezaMafi/Smart-Chess.git
-````
-
+   ````
 3. Create a build directory and compile:
-
-   ```bash
+   ````bash
    mkdir build
    cd build
    cmake ..
    make
    ./chess
-   ```
+   ````
 
 ### ▶️ Run the Game
 
